@@ -2,10 +2,14 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/3.函数.js" />
+        <item url="file://$PROJECT_DIR$/2.Class.js" />
         <item url="file://$PROJECT_DIR$/1.基本数据类型.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/3.函数.js" />
+      <root url="file://$PROJECT_DIR$/2.Class.js" />
       <root url="file://$PROJECT_DIR$/1.基本数据类型.js" />
     </CLASSES>
     <SOURCES />
